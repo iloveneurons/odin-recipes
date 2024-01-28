@@ -1,2 +1,2 @@
 # odin-recipes
-Write a brief introduction describing what the current project is and what skills you have demonstrated by completing it.
+This is a basic recipe website with links to a few recipe pages. Each recipe page includes an image, a brief description, an ingredients list, and a list of directions. By completing this project, I practiced the following: writing the HTML boilerplate; navigating files and directories from the command line; making commits to Git; creating links, headings, paragraphs, and lists; inserting images using relative paths. 
