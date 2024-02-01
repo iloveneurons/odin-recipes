@@ -2,11 +2,11 @@ body {
     font-family: "Times New Roman", "Garamond", serif;
 }
 
-h1 {
+.index-head {
     color: #004d99;
 }
 
-ul, a {
+a {
     color: #0073e6;
     text-decoration: none;
 }
