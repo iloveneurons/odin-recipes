@@ -6,7 +6,7 @@ body {
     color: #004d99;
 }
 
-a {
+.home-links, a {
     color: #0073e6;
     text-decoration: none;
 }
