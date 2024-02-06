@@ -16,13 +16,23 @@ body {
     background: #FFF7FD;
     color: #E16EBF;
     text-align: center;
+    margin: 0px auto 25px;
 }
 
-.home-links, a {
-    color: #0073e6;
+.home-links {
+    text-align: center;
+}
+
+a {
+    display: inline-block;
+    color: #E153B7;
     text-decoration: none;
 }
 
 a:visited {
-    color: #3399ff;
+    color: #e7708a;
+}
+
+button {
+
 }
