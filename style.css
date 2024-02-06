@@ -4,8 +4,11 @@ body {
 }
 
 .card {
-    width: 400px;
-    background: 
+    width: 800px;
+    background: #FFECF9;
+    border-style: double;
+    border-color: #FFDAF4;
+    margin: 50px auto;
 }
 
 .index-head {
