@@ -9,10 +9,13 @@ body {
     border-style: double;
     border-color: #FFDAF4;
     margin: 50px auto;
+    padding: 8px;
 }
 
 .index-head {
-    color: #004d99;
+    background: #FFF7FD;
+    color: #E16EBF;
+    text-align: center;
 }
 
 .home-links, a {
