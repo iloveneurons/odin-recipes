@@ -1,6 +1,11 @@
 body {
-    background: #ffe6ff;
+    background: #FFF2FB;
     font-family: "Times New Roman", "Garamond", serif;
+}
+
+.card {
+    width: 400px;
+    background: 
 }
 
 .index-head {
