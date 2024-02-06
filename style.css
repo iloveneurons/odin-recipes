@@ -1,6 +1,6 @@
 body {
     background: #FFF2FB;
-    font-family: "Times New Roman", "Garamond", serif;
+    font-family: serif;
 }
 
 .card {
@@ -17,6 +17,9 @@ body {
     color: #E16EBF;
     text-align: center;
     margin: 0px auto 25px;
+    border-style: double;
+    border-color: #FFDAF4;
+    padding: 8px;
 }
 
 .home-links {
@@ -24,15 +27,21 @@ body {
 }
 
 a {
-    display: inline-block;
     color: #E153B7;
     text-decoration: none;
 }
 
 a:visited {
-    color: #e7708a;
+    color: #ef5597;
 }
 
 button {
+    background-color: #FFF7FD;
+    border-style: solid;
+    border-color: #78145a;
+    border-width: 1px;
+}
 
+button:hover {
+    background-color: #fffdff;
 }
